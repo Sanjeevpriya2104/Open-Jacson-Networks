@@ -1,7 +1,3 @@
-name : sanjeevpriya k
-
-reg no : 212224040289
-
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -29,6 +25,11 @@ Visual components and Python
 
 
 ## Program
+
+name:sanjeevpriya k
+
+reg no :212224040289
+
 ```
 #Developed by : GAUTHAM KRISHNA S
 #Register No : 212223240036
